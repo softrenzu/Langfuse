@@ -79,7 +79,7 @@ The goal is not to clone every Langfuse screen. The first release focuses on a s
 
 ROOOMTECH offers a paid commercial agreement, maintenance, technical support, implementation help, upgrades, security support, SLA options, and custom development for business and production deployments. A standard commercial software license agreement is available.
 
-Contact: `tasuku.yoshioka@rooomtech.com`
+Contact: `support@rooomtech.com`
 
 ## License
 
