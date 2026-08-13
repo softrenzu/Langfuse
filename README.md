@@ -1,5 +1,7 @@
 # ROOOMTECH AIOps
 
+Version: `0.2.0`
+
 Embedded-first AI operations core for LLM and agent workloads.
 
 ## Features
@@ -73,6 +75,12 @@ The goal is not to clone every Langfuse screen. The first release focuses on a s
 - MCP operational interface
 - Kubernetes deployment and auto-remediation approval gates
 
+## Enterprise support
+
+ROOOMTECH offers a paid commercial agreement, maintenance, technical support, implementation help, upgrades, security support, SLA options, and custom development for business and production deployments. A standard commercial software license agreement is available.
+
+Contact: `tasuku.yoshioka@rooomtech.com`
+
 ## License
 
-Apache-2.0
+Apache-2.0. See `LICENSE`.
